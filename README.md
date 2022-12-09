@@ -1,4 +1,4 @@
-# Selection-Project-Patika
+# Selection-Sort-Project-Patika
 
 [22,27,16,2,18,6] -> Insertion Sort
 
